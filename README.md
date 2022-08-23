@@ -5,3 +5,4 @@
 ![OnPause](https://user-images.githubusercontent.com/110738846/185988508-24dc7b51-f21e-4493-b3ae-ef3cec8f4c87.jpeg)
 ![OnStop](https://user-images.githubusercontent.com/110738846/185988524-21b66560-7b3c-4974-8057-0236c67eefd6.jpeg)
 ![OnRestart](https://user-images.githubusercontent.com/110738846/185988487-33293d84-45ed-4baa-8da7-2e06ef5cb8c3.jpeg)
+![Logcat](https://user-images.githubusercontent.com/110738846/186174804-9fb21134-9a29-4a1b-9539-db85e9198006.jpeg)
